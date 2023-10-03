@@ -187,15 +187,19 @@ export async function getStaticProps({ params, preview, previewData }) {
 export async function getStaticPaths() {
   const allProducts = await getAllDocSlugs('product')
 
+  const paths = []
+  allProducts?.forEach((page) => {
+    if (page?.slug) {
+      paths.push({
+        params: {
+          slug: page.slug.toString()
+        },
+      })
+    } 
+  })
+
   return {
-    paths:
-      allProducts?.map((page) => {
-        return {
-          params: {
-            slug: page.slug,
-          },
-        }
-      }) || [],
+    paths,
     fallback: false,
   }
 }
