@@ -1,17 +1,20 @@
 interface LuxVariant {
-  descriptionHtml: string
+  descHtml: string
   shopifyId: string
   slugSuffix: string
-  variantTitle: string
+  slugFull: string
+  titleSuffix: string
+  titleFull: string
+  tags: string[]
   price: number
 }
 
 interface LuxProduct {
-  _createAt: string
+  _createdAt: string
   _id: string
   _rev: string
   _type: 'LuxProduct'
-  _updateAt: string
+  _updatedAt: string
   
   baseSlug: string
   baseTitle: string
