@@ -1,0 +1,1150 @@
+[
+{
+  "_createdAt": "2023-09-15T19:50:55Z",
+  "_id": "shopifyProduct-8356359405855",
+  "_rev": "W6Ig5IqbENCNCyvoaQz5h8",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:55Z",
+  "store.createdAt": "2023-06-21T12:54:27+01:00",
+  "store.descriptionHtml": "<p>Invest wisely with a 250g Gold Bullion Minted Bar. Add diversity to your portfolio with this high-quality precious metal product.</p>",
+  "store.gid": "gid://shopify/Product/8356359405855",
+  "store.id": 8356359405855,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 15541,
+  "store.priceRange.minVariantPrice": 15541,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-250g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 250g",
+  "store.variants": [
+    {
+      "_key": "7d43dff5-12ff-5e84-a42f-d08f49507d02",
+      "_ref": "shopifyProductVariant-45331118883103",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:55Z",
+  "_id": "shopifyProduct-8356360225055",
+  "_rev": "HppJY7speRD4WzgBylm48h",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:55Z",
+  "store.createdAt": "2023-06-21T12:54:53+01:00",
+  "store.descriptionHtml": "<p>Purchase a 1kg Palladium Bullion Good Delivery Bar <span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical palladium, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356360225055",
+  "store.id": 8356360225055,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 44337.78,
+  "store.priceRange.minVariantPrice": 44337.78,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "palladium-delivery-bar-1kg",
+  "store.status": "active",
+  "store.tags": "",
+  "store.title": "Palladium Bullion Good Delivery Bar - 1kg",
+  "store.variants": [
+    {
+      "_key": "65db1e59-fa53-5cc2-a438-41229599ebd7",
+      "_ref": "shopifyProductVariant-45331119735071",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:55Z",
+  "_id": "shopifyProduct-8356360356127",
+  "_rev": "Qoyh38FNEim6Fa303byqvK",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:55Z",
+  "store.createdAt": "2023-06-21T12:54:58+01:00",
+  "store.descriptionHtml": "<p>Purchase 100x1g Gold Bullion MultiBar <span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality,</span> with this flexible and divisible precious metal product.</p>",
+  "store.gid": "gid://shopify/Product/8356360356127",
+  "store.id": 8356360356127,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 6217,
+  "store.priceRange.minVariantPrice": 6217,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-multibar-100x1g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion MultiBar - 100x1g",
+  "store.variants": [
+    {
+      "_key": "89ef08a7-db17-53a5-88b3-0839553d13d1",
+      "_ref": "shopifyProductVariant-45331119866143",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356358717727",
+  "_rev": "Qoyh38FNEim6Fa303byqyW",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:21+01:00",
+  "store.descriptionHtml": "<p>Purchase 10oz Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356358717727",
+  "store.id": 8356358717727,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 19614.45,
+  "store.priceRange.minVariantPrice": 19614.45,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-10oz",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 10oz",
+  "store.variants": [
+    {
+      "_key": "f95802bb-3109-5a7e-a44a-1289f76248ab",
+      "_ref": "shopifyProductVariant-45331117867295",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359766303",
+  "_rev": "W6Ig5IqbENCNCyvoaQz64s",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:39+01:00",
+  "store.descriptionHtml": "<p>Purchase 10oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359766303",
+  "store.id": 8356359766303,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 237.7,
+  "store.priceRange.minVariantPrice": 237.7,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-minted-bar-10oz",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion Minted Bar - 10oz",
+  "store.variants": [
+    {
+      "_key": "d1782ea3-a963-5582-aec4-360014a5524d",
+      "_ref": "shopifyProductVariant-45331119243551",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359242015",
+  "_rev": "HppJY7speRD4WzgBylm4If",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:25+01:00",
+  "store.descriptionHtml": "<p>Invest in a 1kg Gold Bullion Minted Bar and add diversity to your investment portfolio with this high-quality precious metal product.</p>",
+  "store.gid": "gid://shopify/Product/8356359242015",
+  "store.id": 8356359242015,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 62165,
+  "store.priceRange.minVariantPrice": 62165,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-1kg",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 1kg",
+  "store.variants": [
+    {
+      "_key": "2e464325-49ad-5cf6-ba80-e91476e41680",
+      "_ref": "shopifyProductVariant-45331118653727",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359176479",
+  "_rev": "Qoyh38FNEim6Fa303byr72",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:23+01:00",
+  "store.descriptionHtml": "<p>The Lux Gold Bullion Minted Bar is the apex of quality and compliance, adhering to the stringent standards set by both the Dubai Multi Commodities Centre (DMCC) and the London Bullion Market Association (LBMA). Engineered at the highest professional level in Dubai, each Lux Gold Bullion Minted Bar represents a pinnacle of craftsmanship and regulatory integrity.</p>\n<p>The 1 Oz Lux Gold bars are the most sought-after, featuring the Lux Triangle on the reverse, designed according to the golden ratio. This symbolizes balance and perfection, echoing the bar's quality. Each bar is individually serialized and comes in a protective holder with a signed Assay Certificate, confirming its authenticity.</p>\n<p>Why Buy Lux Gold Bullion?</p>\n<p>Lux set itself apart by being one of the first to incorporate a scientifically-inspired design, positioning the brand as a pioneer in the bullion industry. Available in sizes from 1 gram to 1 kg, Lux Gold bars are an option for diverse investors. Payment can be made in various currencies and cryptocurrencies, offering flexibility.</p>\n<p>Investing in Lux Gold Bars</p>\n<p>Gold remains a reliable hedge against inflation and economic instability. Lux Gold bars, with their unique design and high purity, offer both aesthetic and investment value. Free insured storage is included for a year post-purchase.<br><br>The Lux Market has carved out a unique space in the bullion industry, attracting a broad spectrum of investors due to its innovative designs, high purity, and compliance with international standards.</p>",
+  "store.gid": "gid://shopify/Product/8356359176479",
+  "store.id": 8356359176479,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 1953.85,
+  "store.priceRange.minVariantPrice": 1953.85,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-1oz",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 1oz",
+  "store.variants": [
+    {
+      "_key": "8bc4268b-a01b-582d-8556-cbafc96f4178",
+      "_ref": "shopifyProductVariant-45331118588191",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356360159519",
+  "_rev": "HppJY7speRD4WzgBylm4PJ",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:51+01:00",
+  "store.descriptionHtml": "<p>Purchase 1000oz Silver Bullion Good Delivery Bar <span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356360159519",
+  "store.id": 8356360159519,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 24756.87,
+  "store.priceRange.minVariantPrice": 24756.87,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-delivery-bar-1000oz",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion Good Delivery Bar - 1000oz",
+  "store.variants": [
+    {
+      "_key": "1594bec1-11a6-57ce-a12b-49c1266e89fb",
+      "_ref": "shopifyProductVariant-45331119669535",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356360061215",
+  "_rev": "Qoyh38FNEim6Fa303byrDQ",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:49+01:00",
+  "store.descriptionHtml": "<p>Purchase 400oz Gold Bullion Good Delivery Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356360061215",
+  "store.id": 8356360061215,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 784578.15,
+  "store.priceRange.minVariantPrice": 784578.15,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-delivery-bar-400oz",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Good Delivery Bar - 400oz",
+  "store.variants": [
+    {
+      "_key": "e54c4ed6-7d68-53c8-a1ef-05cfe6403900",
+      "_ref": "shopifyProductVariant-45331119571231",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356360028447",
+  "_rev": "Qoyh38FNEim6Fa303byrGc",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:48+01:00",
+  "store.descriptionHtml": "<p>Purchase 1oz Palladium Bullion Coin<span data-mce-fragment=\"1\"> </span><span data-mce-fragment=\"1\">own physical palladium, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356360028447",
+  "store.id": 8356360028447,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 1402,
+  "store.priceRange.minVariantPrice": 1402,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "palladium-coin-1oz",
+  "store.status": "active",
+  "store.tags": "",
+  "store.title": "Palladium Bullion Coin - 1oz",
+  "store.variants": [
+    {
+      "_key": "af657f91-d338-5af6-b28a-88a436c63c40",
+      "_ref": "shopifyProductVariant-45331119505695",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359864607",
+  "_rev": "HppJY7speRD4WzgBylm4Vx",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:43+01:00",
+  "store.descriptionHtml": "<p>Purchase 1kg Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359864607",
+  "store.id": 8356359864607,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 744.92,
+  "store.priceRange.minVariantPrice": 744.92,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-minted-bar-1kg",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion Minted Bar - 1kg",
+  "store.variants": [
+    {
+      "_key": "1fbf4150-e4d2-5705-8793-46fdd9d0a448",
+      "_ref": "shopifyProductVariant-45331119341855",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356358914335",
+  "_rev": "Qoyh38FNEim6Fa303byrJo",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:22+01:00",
+  "store.descriptionHtml": "<p>Purchase a 5oz Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356358914335",
+  "store.id": 8356358914335,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 9807.23,
+  "store.priceRange.minVariantPrice": 9807.23,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-5oz",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 5oz",
+  "store.variants": [
+    {
+      "_key": "1f183ef3-be2f-59d0-8dd3-457c9529a815",
+      "_ref": "shopifyProductVariant-45331118227743",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359635231",
+  "_rev": "HppJY7speRD4WzgBylm4aw",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:35+01:00",
+  "store.descriptionHtml": "<p>Secure your wealth with a 2.5g Gold Bullion Minted Bar. This convenient and valuable investment option is recognized globally.</p>",
+  "store.gid": "gid://shopify/Product/8356359635231",
+  "store.id": 8356359635231,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 155,
+  "store.priceRange.minVariantPrice": 155,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-2-5g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 2.5g",
+  "store.variants": [
+    {
+      "_key": "32a18b8b-4af4-5825-ae1b-1b0ba75504df",
+      "_ref": "shopifyProductVariant-45331119112479",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359799071",
+  "_rev": "W6Ig5IqbENCNCyvoaQz6Dm",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:40+01:00",
+  "store.descriptionHtml": "<p>Purchase 5oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359799071",
+  "store.id": 8356359799071,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 118.85,
+  "store.priceRange.minVariantPrice": 118.85,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-minted-bar-5oz",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion Minted Bar - 5oz",
+  "store.variants": [
+    {
+      "_key": "a4e475c4-810d-5607-8236-72ea1cadad85",
+      "_ref": "shopifyProductVariant-45331119276319",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:57Z",
+  "_id": "shopifyProduct-8356359373087",
+  "_rev": "HppJY7speRD4WzgBylm4fv",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:57Z",
+  "store.createdAt": "2023-06-21T12:54:26+01:00",
+  "store.descriptionHtml": "<p>Diversify your investment portfolio with a 500g Gold Bullion Minted Bar. Secure your wealth with this valuable precious metal product.</p>",
+  "store.gid": "gid://shopify/Product/8356359373087",
+  "store.id": 8356359373087,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 31083,
+  "store.priceRange.minVariantPrice": 31083,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-500g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 500g",
+  "store.variants": [
+    {
+      "_key": "1fd28082-74a0-51a8-9121-86683e88d2ac",
+      "_ref": "shopifyProductVariant-45331118850335",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:57Z",
+  "_id": "shopifyProduct-8356359569695",
+  "_rev": "HppJY7speRD4WzgBylm4ku",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:57Z",
+  "store.createdAt": "2023-06-21T12:54:33+01:00",
+  "store.descriptionHtml": "<p>Purchase a 10g Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359569695",
+  "store.id": 8356359569695,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 622,
+  "store.priceRange.minVariantPrice": 622,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-10g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 10g",
+  "store.variants": [
+    {
+      "_key": "b8c4dcc8-c77c-5340-870f-a121f20c7245",
+      "_ref": "shopifyProductVariant-45331119046943",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:57Z",
+  "_id": "shopifyProduct-8356359995679",
+  "_rev": "Qoyh38FNEim6Fa303byrN0",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:57Z",
+  "store.createdAt": "2023-06-21T12:54:47+01:00",
+  "store.descriptionHtml": "<p>Purchase 1oz Platinum Bullion Coin <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359995679",
+  "store.id": 8356359995679,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 972,
+  "store.priceRange.minVariantPrice": 972,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "platinum-coin-1oz",
+  "store.status": "active",
+  "store.tags": "",
+  "store.title": "Platinum Bullion Coin - 1oz",
+  "store.variants": [
+    {
+      "_key": "e50af71a-4851-5d43-a094-3e22b85dac61",
+      "_ref": "shopifyProductVariant-45331119472927",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:57Z",
+  "_id": "shopifyProduct-8356359930143",
+  "_rev": "Qoyh38FNEim6Fa303byrQC",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:57Z",
+  "store.createdAt": "2023-06-21T12:54:44+01:00",
+  "store.descriptionHtml": "<p>Purchase 1oz Gold Bullion Coin <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359930143",
+  "store.id": 8356359930143,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 1953.85,
+  "store.priceRange.minVariantPrice": 1953.85,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-coin-1oz",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Coin - 1oz",
+  "store.variants": [
+    {
+      "_key": "882217b5-183b-5446-9fcf-d28371513ddf",
+      "_ref": "shopifyProductVariant-45331119407391",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:58Z",
+  "_id": "shopifyProduct-8356359438623",
+  "_rev": "W6Ig5IqbENCNCyvoaQz6Mg",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:58Z",
+  "store.createdAt": "2023-06-21T12:54:29+01:00",
+  "store.descriptionHtml": "<p>Purchase 100g Gold Bullion Minted Bar and<span data-mce-fragment=\"1\"> </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359438623",
+  "store.id": 8356359438623,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 6217,
+  "store.priceRange.minVariantPrice": 6217,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-100g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 100g",
+  "store.variants": [
+    {
+      "_key": "9a5dd394-ecf3-52df-bb85-7e2e295cfe2a",
+      "_ref": "shopifyProductVariant-45331118915871",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:58Z",
+  "_id": "shopifyProduct-8356360257823",
+  "_rev": "Qoyh38FNEim6Fa303byre2",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:58Z",
+  "store.createdAt": "2023-06-21T12:54:55+01:00",
+  "store.descriptionHtml": "<p>Purchase 1kg Platinum Bullion Good Delivery Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical platinum, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356360257823",
+  "store.id": 8356360257823,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 31042,
+  "store.priceRange.minVariantPrice": 31042,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "platinum-delivery-bar-1kg",
+  "store.status": "active",
+  "store.tags": "",
+  "store.title": "Platinum Bullion Good Delivery Bar - 1kg",
+  "store.variants": [
+    {
+      "_key": "b8d80a80-3c83-5950-aa37-3e5e8aad67fd",
+      "_ref": "shopifyProductVariant-45331119767839",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:58Z",
+  "_id": "shopifyProduct-8356359471391",
+  "_rev": "HppJY7speRD4WzgBylm54q",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:58Z",
+  "store.createdAt": "2023-06-21T12:54:30+01:00",
+  "store.descriptionHtml": "<p>Invest in a 50g Gold Bullion Minted Bar and diversify your portfolio with this high-quality precious metal product.</p>",
+  "store.gid": "gid://shopify/Product/8356359471391",
+  "store.id": 8356359471391,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 3108,
+  "store.priceRange.minVariantPrice": 3108,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-50g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 50g",
+  "store.variants": [
+    {
+      "_key": "76c0c44e-9f32-5a98-b7f3-76b16247f926",
+      "_ref": "shopifyProductVariant-45331118948639",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:51:00Z",
+  "_id": "shopifyProduct-8356359733535",
+  "_rev": "W6Ig5IqbENCNCyvoaQz6wI",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:51:00Z",
+  "store.createdAt": "2023-06-21T12:54:38+01:00",
+  "store.descriptionHtml": "<p>Purchase 100oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359733535",
+  "store.id": 8356359733535,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 2377,
+  "store.priceRange.minVariantPrice": 2377,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-minted-bar-100oz",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion Minted Bar - 100oz",
+  "store.variants": [
+    {
+      "_key": "d8b1bc98-8db7-5dc8-a28e-1980d492acf9",
+      "_ref": "shopifyProductVariant-45331119210783",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:51:00Z",
+  "_id": "shopifyProduct-8356358619423",
+  "_rev": "HppJY7speRD4WzgBylm5Jn",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:51:00Z",
+  "store.createdAt": "2023-06-21T12:54:20+01:00",
+  "store.descriptionHtml": "<p>Purchase a high-quality 100oz Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356358619423",
+  "store.id": 8356358619423,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 196144.54,
+  "store.priceRange.minVariantPrice": 196144.54,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-100oz",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 100oz",
+  "store.variants": [
+    {
+      "_key": "137931bb-56b4-53e4-aafe-ecb0c2107920",
+      "_ref": "shopifyProductVariant-45331117801759",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:51:01Z",
+  "_id": "shopifyProduct-8356359504159",
+  "_rev": "YM5V4flpPpyqy9vuJQ6xsZ",
+  "_type": "product",
+  "_updatedAt": "2023-10-07T11:10:28Z",
+  "description": [
+    {
+      "_key": "77774cf8576c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "af90ae07a187",
+          "_type": "span",
+          "marks": [],
+          "text": "masdlkfjasdlkfjsa"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "store.createdAt": "2023-06-21T12:54:31+01:00",
+  "store.descriptionHtml": "<p>Secure your wealth with a 25g Gold Bullion Minted Bar. This convenient and valuable investment option is recognized globally.</p>",
+  "store.gid": "gid://shopify/Product/8356359504159",
+  "store.id": 8356359504159,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 1554,
+  "store.priceRange.minVariantPrice": 1554,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-25g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 25g",
+  "store.variants": [
+    {
+      "_key": "46a9a9ca-96ac-5d35-85ac-2dd39c297138",
+      "_ref": "shopifyProductVariant-45331118981407",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux",
+  "title": "Gold Bullion "
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359602463",
+  "_rev": "FoV62Q6LKxgZXiMx56GvHu",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:34+01:00",
+  "store.descriptionHtml": "<p>Purchase 5g Gold Bullion Minted Bar and own physical gold, manufactured at the highest level of quality.</p>",
+  "store.gid": "gid://shopify/Product/8356359602463",
+  "store.id": 8356359602463,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 311,
+  "store.priceRange.minVariantPrice": 311,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-5g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 5g",
+  "store.variants": [
+    {
+      "_key": "d1c3061b-6774-5074-8b21-a1d727337969",
+      "_ref": "shopifyProductVariant-45331119079711",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:55Z",
+  "_id": "shopifyProduct-8356359667999",
+  "_rev": "FoV62Q6LKxgZXiMx5AUWXI",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:55Z",
+  "store.createdAt": "2023-06-21T12:54:36+01:00",
+  "store.descriptionHtml": "<p>Purchase 1g Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359667999",
+  "store.id": 8356359667999,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 62,
+  "store.priceRange.minVariantPrice": 62,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "gold-minted-bar-1g",
+  "store.status": "active",
+  "store.tags": "gold",
+  "store.title": "Gold Bullion Minted Bar - 1g",
+  "store.variants": [
+    {
+      "_key": "919d8867-ed33-5c4b-9961-3b6bb9f88748",
+      "_ref": "shopifyProductVariant-45331119145247",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356360290591",
+  "_rev": "9BCV2PqUxoS2VCYUXKnYVq",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:57+01:00",
+  "store.descriptionHtml": "<p>Purchase the flexible and divisible 100x1g Silver Bullion MultiBar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356360290591",
+  "store.id": 8356360290591,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 74.49,
+  "store.priceRange.minVariantPrice": 74.49,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-multibar-100x1g",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion MultiBar - 100x1g",
+  "store.variants": [
+    {
+      "_key": "833def86-f392-5ca4-b4d3-bc39d0ae63d5",
+      "_ref": "shopifyProductVariant-45331119800607",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:55Z",
+  "_id": "shopifyProduct-8356359962911",
+  "_rev": "FoV62Q6LKxgZXiMx5EUQwb",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:55Z",
+  "store.createdAt": "2023-06-21T12:54:45+01:00",
+  "store.descriptionHtml": "<p>Purchase 1oz Silver Bullion Coin <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359962911",
+  "store.id": 8356359962911,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 23.77,
+  "store.priceRange.minVariantPrice": 23.77,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-coin-1oz",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion Coin - 1oz",
+  "store.variants": [
+    {
+      "_key": "42516645-484d-5204-9fd9-be86e61be09c",
+      "_ref": "shopifyProductVariant-45331119440159",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+},
+{
+  "_createdAt": "2023-09-15T19:50:56Z",
+  "_id": "shopifyProduct-8356359831839",
+  "_rev": "FoV62Q6LKxgZXiMx5GPzR6",
+  "_type": "product",
+  "_updatedAt": "2023-09-15T19:50:56Z",
+  "store.createdAt": "2023-06-21T12:54:41+01:00",
+  "store.descriptionHtml": "<p>Purchase 1oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
+  "store.gid": "gid://shopify/Product/8356359831839",
+  "store.id": 8356359831839,
+  "store.isDeleted": false,
+  "store.options": [
+    {
+      "_key": "Title",
+      "_type": "option",
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "store.priceRange.maxVariantPrice": 20,
+  "store.priceRange.minVariantPrice": 20,
+  "store.productType": "",
+  "store.slug._type": "slug",
+  "store.slug.current": "silver-minted-bar-1oz",
+  "store.status": "active",
+  "store.tags": "silver",
+  "store.title": "Silver Bullion Minted Bar - 1oz",
+  "store.variants": [
+    {
+      "_key": "0f53057c-f256-5045-bd8a-317726d6b2ad",
+      "_ref": "shopifyProductVariant-45331119309087",
+      "_type": "reference",
+      "_weak": true
+    }
+  ],
+  "store.vendor": "Lux"
+}
+]

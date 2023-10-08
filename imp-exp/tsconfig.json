@@ -1,0 +1,4 @@
+{
+  "extends": "../tsconfig.json",
+  "**comment***": "ts-node does not work with module=esnext, or with isolatedModules=true",
+}

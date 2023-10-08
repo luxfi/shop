@@ -1,0 +1,17 @@
+{
+  "name": "sanity-to-lux-products",
+  "version": "1.0.0",
+  "description": "Import sanity / shopify products from a HULL app.",
+  "main": "importSanityProducts.ts",
+  "scripts": {
+    "start": "tsx importSanityProducts"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "write-json-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  }
+}
