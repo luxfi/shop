@@ -26,7 +26,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-250g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 250g",
   "store.variants": [
     {
@@ -65,7 +65,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "palladium-delivery-bar-1kg",
   "store.status": "active",
-  "store.tags": "",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Palladium Bullion Good Delivery Bar - 1kg",
   "store.variants": [
     {
@@ -104,7 +104,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-multibar-100x1g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar", "multibar"],
   "store.title": "Gold Bullion MultiBar - 100x1g",
   "store.variants": [
     {
@@ -143,7 +143,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-10oz",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 10oz",
   "store.variants": [
     {
@@ -182,7 +182,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-minted-bar-10oz",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "bar"],
   "store.title": "Silver Bullion Minted Bar - 10oz",
   "store.variants": [
     {
@@ -221,7 +221,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-1kg",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags":  ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 1kg",
   "store.variants": [
     {
@@ -260,7 +260,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-1oz",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags":  ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 1oz",
   "store.variants": [
     {
@@ -299,7 +299,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-delivery-bar-1000oz",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "bar"],
   "store.title": "Silver Bullion Good Delivery Bar - 1000oz",
   "store.variants": [
     {
@@ -338,7 +338,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-delivery-bar-400oz",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Good Delivery Bar - 400oz",
   "store.variants": [
     {
@@ -377,7 +377,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "palladium-coin-1oz",
   "store.status": "active",
-  "store.tags": "",
+  "store.tags":["coin", "bullion", "palladium"],
   "store.title": "Palladium Bullion Coin - 1oz",
   "store.variants": [
     {
@@ -416,7 +416,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-minted-bar-1kg",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "bar"],
   "store.title": "Silver Bullion Minted Bar - 1kg",
   "store.variants": [
     {
@@ -455,7 +455,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-5oz",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 5oz",
   "store.variants": [
     {
@@ -494,7 +494,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-2_5g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 2.5g",
   "store.variants": [
     {
@@ -533,7 +533,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-minted-bar-5oz",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "bar"],
   "store.title": "Silver Bullion Minted Bar - 5oz",
   "store.variants": [
     {
@@ -572,7 +572,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-500g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags":  ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 500g",
   "store.variants": [
     {
@@ -611,7 +611,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-10g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 10g",
   "store.variants": [
     {
@@ -650,7 +650,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "platinum-coin-1oz",
   "store.status": "active",
-  "store.tags": "",
+  "store.tags": ["platinum", "bullion", "coin"],
   "store.title": "Platinum Bullion Coin - 1oz",
   "store.variants": [
     {
@@ -689,7 +689,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-coin-1oz",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "coin"],
   "store.title": "Gold Bullion Coin - 1oz",
   "store.variants": [
     {
@@ -728,7 +728,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-100g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags":  ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 100g",
   "store.variants": [
     {
@@ -767,7 +767,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "platinum-delivery-bar-1kg",
   "store.status": "active",
-  "store.tags": "",
+  "store.tags": ["platinum", "bullion", "bar"],
   "store.title": "Platinum Bullion Good Delivery Bar - 1kg",
   "store.variants": [
     {
@@ -806,7 +806,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-50g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 50g",
   "store.variants": [
     {
@@ -845,7 +845,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-minted-bar-100oz",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "bar"],
   "store.title": "Silver Bullion Minted Bar - 100oz",
   "store.variants": [
     {
@@ -884,7 +884,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-100oz",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 100oz",
   "store.variants": [
     {
@@ -939,7 +939,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-25g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 25g",
   "store.variants": [
     {
@@ -979,7 +979,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-5g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 5g",
   "store.variants": [
     {
@@ -1018,7 +1018,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "gold-minted-bar-1g",
   "store.status": "active",
-  "store.tags": "gold",
+  "store.tags": ["gold", "bullion", "bar"],
   "store.title": "Gold Bullion Minted Bar - 1g",
   "store.variants": [
     {
@@ -1057,7 +1057,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-multibar-100x1g",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "bar", "multibar"],
   "store.title": "Silver Bullion MultiBar - 100x1g",
   "store.variants": [
     {
@@ -1096,7 +1096,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-coin-1oz",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "coin"],
   "store.title": "Silver Bullion Coin - 1oz",
   "store.variants": [
     {
@@ -1135,7 +1135,7 @@
   "store.slug._type": "slug",
   "store.slug.current": "silver-minted-bar-1oz",
   "store.status": "active",
-  "store.tags": "silver",
+  "store.tags": ["silver", "bullion", "bar"],
   "store.title": "Silver Bullion Minted Bar - 1oz",
   "store.variants": [
     {

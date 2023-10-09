@@ -4,18 +4,19 @@
 		"_rev": "Qoyh38FNEim6Fa303byrQC",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:57Z",
-		"baseSlug": "gold-coin",
+		"baseSKU": "LUX-AU-CN",
 		"baseTitle": "Gold Bullion Coin",
 		"tags": [
-			"gold"
+			"gold",
+			"bullion",
+			"coin"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 1oz Gold Bullion Coin <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359930143,
-				"slugSuffix": "1oz",
-				"slugFull": "",
-				"titleSuffix": "1oz",
+				"SKUSuffix": "-1Z",
+				"SKUFull": "",
+				"titleSuffix": " - 1oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 1953.85
@@ -27,18 +28,19 @@
 		"_rev": "Qoyh38FNEim6Fa303byrDQ",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:56Z",
-		"baseSlug": "gold-delivery-bar",
+		"baseSKU": "LUX-AU-BR",
 		"baseTitle": "Gold Bullion Good Delivery Bar",
 		"tags": [
-			"gold"
+			"gold",
+			"bullion",
+			"bar"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 400oz Gold Bullion Good Delivery Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356360061215,
-				"slugSuffix": "400oz",
-				"slugFull": "",
-				"titleSuffix": "400oz",
+				"SKUSuffix": "-400Z",
+				"SKUFull": "",
+				"titleSuffix": " - 400oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 784578.15
@@ -50,148 +52,136 @@
 		"_rev": "W6Ig5IqbENCNCyvoaQz6Mg",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:58Z",
-		"baseSlug": "gold-minted-bar",
+		"baseSKU": "LUX-AU-BR",
 		"baseTitle": "Gold Bullion Minted Bar",
 		"tags": [
-			"gold"
+			"gold",
+			"bullion",
+			"bar"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 100g Gold Bullion Minted Bar and<span data-mce-fragment=\"1\"> </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359438623,
-				"slugSuffix": "100g",
-				"slugFull": "",
-				"titleSuffix": "100g",
+				"SKUSuffix": "-100G",
+				"SKUFull": "",
+				"titleSuffix": " - 100g",
 				"titleFull": "",
 				"tags": [],
 				"price": 6217
 			},
 			{
 				"descHtml": "<p>Purchase a high-quality 100oz Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356358619423,
-				"slugSuffix": "100oz",
-				"slugFull": "",
-				"titleSuffix": "100oz",
+				"SKUSuffix": "-100Z",
+				"SKUFull": "",
+				"titleSuffix": " - 100oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 196144.54
 			},
 			{
 				"descHtml": "<p>Purchase a 10g Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359569695,
-				"slugSuffix": "10g",
-				"slugFull": "",
-				"titleSuffix": "10g",
+				"SKUSuffix": "-10G",
+				"SKUFull": "",
+				"titleSuffix": " - 10g",
 				"titleFull": "",
 				"tags": [],
 				"price": 622
 			},
 			{
 				"descHtml": "<p>Purchase 10oz Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356358717727,
-				"slugSuffix": "10oz",
-				"slugFull": "",
-				"titleSuffix": "10oz",
+				"SKUSuffix": "-10Z",
+				"SKUFull": "",
+				"titleSuffix": " - 10oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 19614.45
 			},
 			{
 				"descHtml": "<p>Purchase 1g Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359667999,
-				"slugSuffix": "1g",
-				"slugFull": "",
-				"titleSuffix": "1g",
+				"SKUSuffix": "-1G",
+				"SKUFull": "",
+				"titleSuffix": " - 1g",
 				"titleFull": "",
 				"tags": [],
 				"price": 62
 			},
 			{
 				"descHtml": "<p>Invest in a 1kg Gold Bullion Minted Bar and add diversity to your investment portfolio with this high-quality precious metal product.</p>",
-				"shopifyId": 8356359242015,
-				"slugSuffix": "1kg",
-				"slugFull": "",
-				"titleSuffix": "1kg",
+				"SKUSuffix": "-1K",
+				"SKUFull": "",
+				"titleSuffix": " - 1kg",
 				"titleFull": "",
 				"tags": [],
 				"price": 62165
 			},
 			{
 				"descHtml": "<p>The Lux Gold Bullion Minted Bar is the apex of quality and compliance, adhering to the stringent standards set by both the Dubai Multi Commodities Centre (DMCC) and the London Bullion Market Association (LBMA). Engineered at the highest professional level in Dubai, each Lux Gold Bullion Minted Bar represents a pinnacle of craftsmanship and regulatory integrity.</p>\n<p>The 1 Oz Lux Gold bars are the most sought-after, featuring the Lux Triangle on the reverse, designed according to the golden ratio. This symbolizes balance and perfection, echoing the bar's quality. Each bar is individually serialized and comes in a protective holder with a signed Assay Certificate, confirming its authenticity.</p>\n<p>Why Buy Lux Gold Bullion?</p>\n<p>Lux set itself apart by being one of the first to incorporate a scientifically-inspired design, positioning the brand as a pioneer in the bullion industry. Available in sizes from 1 gram to 1 kg, Lux Gold bars are an option for diverse investors. Payment can be made in various currencies and cryptocurrencies, offering flexibility.</p>\n<p>Investing in Lux Gold Bars</p>\n<p>Gold remains a reliable hedge against inflation and economic instability. Lux Gold bars, with their unique design and high purity, offer both aesthetic and investment value. Free insured storage is included for a year post-purchase.<br><br>The Lux Market has carved out a unique space in the bullion industry, attracting a broad spectrum of investors due to its innovative designs, high purity, and compliance with international standards.</p>",
-				"shopifyId": 8356359176479,
-				"slugSuffix": "1oz",
-				"slugFull": "",
-				"titleSuffix": "1oz",
+				"SKUSuffix": "-1Z",
+				"SKUFull": "",
+				"titleSuffix": " - 1oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 1953.85
 			},
 			{
 				"descHtml": "<p>Invest wisely with a 250g Gold Bullion Minted Bar. Add diversity to your portfolio with this high-quality precious metal product.</p>",
-				"shopifyId": 8356359405855,
-				"slugSuffix": "250g",
-				"slugFull": "",
-				"titleSuffix": "250g",
+				"SKUSuffix": "-250G",
+				"SKUFull": "",
+				"titleSuffix": " - 250g",
 				"titleFull": "",
 				"tags": [],
 				"price": 15541
 			},
 			{
 				"descHtml": "<p>Secure your wealth with a 25g Gold Bullion Minted Bar. This convenient and valuable investment option is recognized globally.</p>",
-				"shopifyId": 8356359504159,
-				"slugSuffix": "25g",
-				"slugFull": "",
-				"titleSuffix": "25g",
+				"SKUSuffix": "-25G",
+				"SKUFull": "",
+				"titleSuffix": " - 25g",
 				"titleFull": "",
 				"tags": [],
 				"price": 1554
 			},
 			{
 				"descHtml": "<p>Secure your wealth with a 2.5g Gold Bullion Minted Bar. This convenient and valuable investment option is recognized globally.</p>",
-				"shopifyId": 8356359635231,
-				"slugSuffix": "2_5g",
-				"slugFull": "",
-				"titleSuffix": "2.5g",
+				"SKUSuffix": "-2_5G",
+				"SKUFull": "",
+				"titleSuffix": " - 2.5g",
 				"titleFull": "",
 				"tags": [],
 				"price": 155
 			},
 			{
 				"descHtml": "<p>Diversify your investment portfolio with a 500g Gold Bullion Minted Bar. Secure your wealth with this valuable precious metal product.</p>",
-				"shopifyId": 8356359373087,
-				"slugSuffix": "500g",
-				"slugFull": "",
-				"titleSuffix": "500g",
+				"SKUSuffix": "-500G",
+				"SKUFull": "",
+				"titleSuffix": " - 500g",
 				"titleFull": "",
 				"tags": [],
 				"price": 31083
 			},
 			{
 				"descHtml": "<p>Invest in a 50g Gold Bullion Minted Bar and diversify your portfolio with this high-quality precious metal product.</p>",
-				"shopifyId": 8356359471391,
-				"slugSuffix": "50g",
-				"slugFull": "",
-				"titleSuffix": "50g",
+				"SKUSuffix": "-50G",
+				"SKUFull": "",
+				"titleSuffix": " - 50g",
 				"titleFull": "",
 				"tags": [],
 				"price": 3108
 			},
 			{
 				"descHtml": "<p>Purchase 5g Gold Bullion Minted Bar and own physical gold, manufactured at the highest level of quality.</p>",
-				"shopifyId": 8356359602463,
-				"slugSuffix": "5g",
-				"slugFull": "",
-				"titleSuffix": "5g",
+				"SKUSuffix": "-5G",
+				"SKUFull": "",
+				"titleSuffix": " - 5g",
 				"titleFull": "",
 				"tags": [],
 				"price": 311
 			},
 			{
 				"descHtml": "<p>Purchase a 5oz Gold Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356358914335,
-				"slugSuffix": "5oz",
-				"slugFull": "",
-				"titleSuffix": "5oz",
+				"SKUSuffix": "-5Z",
+				"SKUFull": "",
+				"titleSuffix": " - 5oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 9807.23
@@ -203,18 +193,20 @@
 		"_rev": "Qoyh38FNEim6Fa303byqvK",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:55Z",
-		"baseSlug": "gold-multibar",
+		"baseSKU": "LUX-AU-BR",
 		"baseTitle": "Gold Bullion MultiBar",
 		"tags": [
-			"gold"
+			"gold",
+			"bullion",
+			"bar",
+			"multibar"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 100x1g Gold Bullion MultiBar <span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality,</span> with this flexible and divisible precious metal product.</p>",
-				"shopifyId": 8356360356127,
-				"slugSuffix": "100x1g",
-				"slugFull": "",
-				"titleSuffix": "100x1g",
+				"SKUSuffix": "-100x1G",
+				"SKUFull": "",
+				"titleSuffix": " - 100x1g",
 				"titleFull": "",
 				"tags": [],
 				"price": 6217
@@ -226,16 +218,19 @@
 		"_rev": "Qoyh38FNEim6Fa303byrGc",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:56Z",
-		"baseSlug": "palladium-coin",
+		"baseSKU": "LUX-PD-CN",
 		"baseTitle": "Palladium Bullion Coin",
-		"tags": [],
+		"tags": [
+			"coin",
+			"bullion",
+			"palladium"
+		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 1oz Palladium Bullion Coin<span data-mce-fragment=\"1\"> </span><span data-mce-fragment=\"1\">own physical palladium, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356360028447,
-				"slugSuffix": "1oz",
-				"slugFull": "",
-				"titleSuffix": "1oz",
+				"SKUSuffix": "-1Z",
+				"SKUFull": "",
+				"titleSuffix": " - 1oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 1402
@@ -247,16 +242,19 @@
 		"_rev": "HppJY7speRD4WzgBylm48h",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:55Z",
-		"baseSlug": "palladium-delivery-bar",
+		"baseSKU": "LUX-PD-BR",
 		"baseTitle": "Palladium Bullion Good Delivery Bar",
-		"tags": [],
+		"tags": [
+			"gold",
+			"bullion",
+			"bar"
+		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase a 1kg Palladium Bullion Good Delivery Bar <span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical palladium, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356360225055,
-				"slugSuffix": "1kg",
-				"slugFull": "",
-				"titleSuffix": "1kg",
+				"SKUSuffix": "-1K",
+				"SKUFull": "",
+				"titleSuffix": " - 1kg",
 				"titleFull": "",
 				"tags": [],
 				"price": 44337.78
@@ -268,16 +266,19 @@
 		"_rev": "Qoyh38FNEim6Fa303byrN0",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:57Z",
-		"baseSlug": "platinum-coin",
+		"baseSKU": "LUX-PT-CN",
 		"baseTitle": "Platinum Bullion Coin",
-		"tags": [],
+		"tags": [
+			"platinum",
+			"bullion",
+			"coin"
+		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 1oz Platinum Bullion Coin <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359995679,
-				"slugSuffix": "1oz",
-				"slugFull": "",
-				"titleSuffix": "1oz",
+				"SKUSuffix": "-1Z",
+				"SKUFull": "",
+				"titleSuffix": " - 1oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 972
@@ -289,16 +290,19 @@
 		"_rev": "Qoyh38FNEim6Fa303byre2",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:58Z",
-		"baseSlug": "platinum-delivery-bar",
+		"baseSKU": "LUX-PT-BR",
 		"baseTitle": "Platinum Bullion Good Delivery Bar",
-		"tags": [],
+		"tags": [
+			"platinum",
+			"bullion",
+			"bar"
+		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 1kg Platinum Bullion Good Delivery Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical platinum, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356360257823,
-				"slugSuffix": "1kg",
-				"slugFull": "",
-				"titleSuffix": "1kg",
+				"SKUSuffix": "-1K",
+				"SKUFull": "",
+				"titleSuffix": " - 1kg",
 				"titleFull": "",
 				"tags": [],
 				"price": 31042
@@ -310,18 +314,19 @@
 		"_rev": "FoV62Q6LKxgZXiMx5EUQwb",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:55Z",
-		"baseSlug": "silver-coin",
+		"baseSKU": "LUX-AG-CN",
 		"baseTitle": "Silver Bullion Coin",
 		"tags": [
-			"silver"
+			"silver",
+			"bullion",
+			"coin"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 1oz Silver Bullion Coin <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359962911,
-				"slugSuffix": "1oz",
-				"slugFull": "",
-				"titleSuffix": "1oz",
+				"SKUSuffix": "-1Z",
+				"SKUFull": "",
+				"titleSuffix": " - 1oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 23.77
@@ -333,18 +338,19 @@
 		"_rev": "HppJY7speRD4WzgBylm4PJ",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:56Z",
-		"baseSlug": "silver-delivery-bar",
+		"baseSKU": "LUX-AG-BR",
 		"baseTitle": "Silver Bullion Good Delivery Bar",
 		"tags": [
-			"silver"
+			"silver",
+			"bullion",
+			"bar"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 1000oz Silver Bullion Good Delivery Bar <span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356360159519,
-				"slugSuffix": "1000oz",
-				"slugFull": "",
-				"titleSuffix": "1000oz",
+				"SKUSuffix": "-1000Z",
+				"SKUFull": "",
+				"titleSuffix": " - 1000oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 24756.87
@@ -356,58 +362,55 @@
 		"_rev": "W6Ig5IqbENCNCyvoaQz6wI",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:51:00Z",
-		"baseSlug": "silver-minted-bar",
+		"baseSKU": "LUX-AG-BR",
 		"baseTitle": "Silver Bullion Minted Bar",
 		"tags": [
-			"silver"
+			"silver",
+			"bullion",
+			"bar"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase 100oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical gold, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359733535,
-				"slugSuffix": "100oz",
-				"slugFull": "",
-				"titleSuffix": "100oz",
+				"SKUSuffix": "-100Z",
+				"SKUFull": "",
+				"titleSuffix": " - 100oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 2377
 			},
 			{
 				"descHtml": "<p>Purchase 10oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359766303,
-				"slugSuffix": "10oz",
-				"slugFull": "",
-				"titleSuffix": "10oz",
+				"SKUSuffix": "-10Z",
+				"SKUFull": "",
+				"titleSuffix": " - 10oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 237.7
 			},
 			{
 				"descHtml": "<p>Purchase 1kg Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359864607,
-				"slugSuffix": "1kg",
-				"slugFull": "",
-				"titleSuffix": "1kg",
+				"SKUSuffix": "-1K",
+				"SKUFull": "",
+				"titleSuffix": " - 1kg",
 				"titleFull": "",
 				"tags": [],
 				"price": 744.92
 			},
 			{
 				"descHtml": "<p>Purchase 1oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359831839,
-				"slugSuffix": "1oz",
-				"slugFull": "",
-				"titleSuffix": "1oz",
+				"SKUSuffix": "-1Z",
+				"SKUFull": "",
+				"titleSuffix": " - 1oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 20
 			},
 			{
 				"descHtml": "<p>Purchase 5oz Silver Bullion Minted Bar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356359799071,
-				"slugSuffix": "5oz",
-				"slugFull": "",
-				"titleSuffix": "5oz",
+				"SKUSuffix": "-5Z",
+				"SKUFull": "",
+				"titleSuffix": " - 5oz",
 				"titleFull": "",
 				"tags": [],
 				"price": 118.85
@@ -419,18 +422,20 @@
 		"_rev": "9BCV2PqUxoS2VCYUXKnYVq",
 		"_type": "LuxProduct",
 		"_updatedAt": "2023-09-15T19:50:56Z",
-		"baseSlug": "silver-multibar",
+		"baseSKU": "LUX-AG-BR",
 		"baseTitle": "Silver Bullion MultiBar",
 		"tags": [
-			"silver"
+			"silver",
+			"bullion",
+			"bar",
+			"multibar"
 		],
 		"variants": [
 			{
 				"descHtml": "<p>Purchase the flexible and divisible 100x1g Silver Bullion MultiBar <meta charset=\"UTF-8\"><span data-mce-fragment=\"1\">and </span><span data-mce-fragment=\"1\">own physical silver, manufactured at the highest level of quality.</span></p>",
-				"shopifyId": 8356360290591,
-				"slugSuffix": "100x1g",
-				"slugFull": "",
-				"titleSuffix": "100x1g",
+				"SKUSuffix": "-100x1G",
+				"SKUFull": "",
+				"titleSuffix": " - 100x1g",
 				"titleFull": "",
 				"tags": [],
 				"price": 74.49
